@@ -185,6 +185,7 @@ body {
     max-width: 180px;
     max-height: 180px;
     border-radius: 5px;
+    display: block;
     margin-left: auto;
     margin-right: auto;
     background-size: cover !important;
