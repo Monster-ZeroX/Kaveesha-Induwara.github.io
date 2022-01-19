@@ -178,13 +178,15 @@ body {
 }
 
 #profile_img {
-    width: 512px;
-    height: 512px;
-    min-width: 512px;
-    min-height: 512px;
-    max-width: 512px;
-    max-height: 512px;
-    border-radius: 10px;
+    width: 180px;
+    height: 180px;
+    min-width: 1px;
+    min-height: 1px;
+    max-width: 180px;
+    max-height: 180px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
     background-size: cover !important;
     background-repeat: no-repeat !important;
 }
