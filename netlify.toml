@@ -2,3 +2,7 @@
   from = "/arc-sw.js"
   to = "https://arc.io/arc-sw.js"
   status = 200
+[[redirects]]
+  from = "/pep-sw.js"
+  to = "https://pep.dev/pep-sw.js"
+  status = 200
